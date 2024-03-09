@@ -4,12 +4,10 @@
 
 @layer base {
   html {
-    @apply bg-slate-900;
-    @apply text-gray-400;
+    @apply text-gray-500;
   }
 
   main {
-    @apply m-5;
   }
 
   h1 {
